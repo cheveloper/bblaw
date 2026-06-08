@@ -102,16 +102,16 @@ export const t = {
         k: "consent",
         title: { ru: "Согласия на сделки", en: "Transaction Consents" },
         desc: {
-          ru: "Согласия на покупку, продажу, дарение и залог недвижимости, доли в ТОО, на газификацию и электрификацию.",
-          en: "Consents for purchase, sale, gift and pledge of real estate, company shares, gasification and electrification.",
+          ru: "Согласия супругов на покупку, продажу, дарение и залог недвижимости, согласия на отчуждение доли в ТОО и иные нотариальные согласия.",
+          en: "Spousal consents for the purchase, sale, gift and pledge of real estate, consents to transfer a share in an LLP (TOO), and other notarial consents.",
         },
       },
       {
         k: "corporate",
         title: { ru: "Для юридических лиц", en: "Corporate Documents" },
         desc: {
-          ru: "Заверение заявлений в налоговую, решений участников ТОО, передача документов в ФНС, заверение устава и учредительных документов.",
-          en: "Certification of tax applications, company resolutions, electronic filing, charter and incorporation documents.",
+          ru: "Заверение заявлений в органы государственных доходов, решений участников ТОО, заверение устава и учредительных документов.",
+          en: "Certification of applications to the State Revenue authorities, LLP (TOO) participant resolutions, charter and founding documents.",
         },
       },
       {
